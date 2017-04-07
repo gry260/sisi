@@ -1,0 +1,47 @@
+html, body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 100%;
+    background: #ffffff;
+}
+
+
+nav
+{
+    background: #000000;
+    color:white;
+}
+
+#loginButton {
+    position: relative;
+    z-index: 30;
+    cursor: pointer;
+    display: block;
+    padding: 2px 14px;
+    border: 1px solid #555;
+    font-weight: 300;
+    height:32px;
+}
+
+
+#register
+{
+    position: relative;
+    cursor: pointer;
+    display: block;
+    padding: 6px 14px;
+    color:black;
+    vertical-align: middle;
+    font-size: 0.85em;
+    font-weight: 300;
+    text-decoration: none;
+}
+
+.box_1 {
+    float: left;
+
+}
+
+#checkout
+{
+    height:32px;
+}
